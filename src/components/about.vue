@@ -1,6 +1,6 @@
 <!-- 关于 -->
 <template>
-<div class=''>故事未完待续</div>
+<div class=''>故事未完待续。。。</div>
 </template>
 
 <script>
