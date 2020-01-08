@@ -55,7 +55,7 @@ return {
    isloading: false,
    articlesList: [],
    total:0,
-   href:"https://wc.gdbylm.com/test/"
+   href:"http://wx.szxiangmi.com/"
 };
 },
 //监听属性 类似于data概念
